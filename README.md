@@ -1,4 +1,4 @@
-# JavaScript Algorithms and Data Structures
+# [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms).
 
 [![Build Status](https://travis-ci.org/trekhleb/javascript-algorithms.svg?branch=master)](https://travis-ci.org/trekhleb/javascript-algorithms)
 [![codecov](https://codecov.io/gh/trekhleb/javascript-algorithms/branch/master/graph/badge.svg)](https://codecov.io/gh/trekhleb/javascript-algorithms)
